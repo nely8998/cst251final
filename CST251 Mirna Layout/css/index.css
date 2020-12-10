@@ -18,7 +18,21 @@ footer{
   width: 220px;
 }
 
+
 img {
 width: 100%;
 height: auto;
+}
+
+.egg{
+  width: 50%
+}
+
+.peachpic{
+  width: 50px;
+  height: 600px;
+}
+
+.peach{
+  color: black;
 }
