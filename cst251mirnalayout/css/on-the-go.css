@@ -11,6 +11,8 @@ footer{
   text-align: right;
   padding: 20px;
   margin-top: 30px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 
 .footer-img{
@@ -18,10 +20,27 @@ footer{
   width: 220px;
 }
 
+.intro{
+  margin: 20px;
+}
+
+h3{
+  margin-left: 15px;
+}
+
+.stuff1{
+  margin-left: 15px;
+}
+
+
 
 img {
 width: 100%;
 height: auto;
+}
+
+.float-left{
+  float: left;
 }
 
 .egg{
