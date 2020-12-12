@@ -3,7 +3,7 @@ head
 style
 
 body {
-    font-family: Verdana, Arial, "san serif";
+    font-family: Helvetica, Arial, "san serif";
     background-color: white;
     padding: 25px;
     font-size: 120%;
@@ -50,9 +50,11 @@ iframe {
 .logo {
   max-width: 500px;
   max-height: 400px;
+  margin-left: 20px;
   margin: none;
   padding-left: 10px;
 }
+
 .topnav {
   border-radius: 5px;
   float: right;
@@ -73,12 +75,10 @@ iframe {
 }
 
 .topnav a:hover {
-
   color: yellow;
 }
 
 .bottomnav {
-  border-radius: 5px;
   float: right;
   width: 1300px;
   padding-top: 5px;
@@ -100,9 +100,7 @@ iframe {
 
   color: yellow;
 }
-.logo {
-  margin-left: 20px;
-}
+
 
 
 h1 {
