@@ -52,3 +52,10 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 }
+
+footer{
+  background-color: peachpuff;
+  text-align: right;
+  padding: 20px;
+  margin-top: 30px;
+}
