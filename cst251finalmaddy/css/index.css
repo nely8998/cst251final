@@ -1,0 +1,15 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 120%;
+  color: #999999;
+  background-color: white;
+}
+
+nav {
+  color: orange;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
