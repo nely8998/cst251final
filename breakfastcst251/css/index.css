@@ -63,21 +63,19 @@ iframe {
   padding-top: 5px;
   padding-right: 30px;
   overflow: hidden;
-  background-color: #F77636;
+
 }
 
 .topnav a {
   float: right;
-  color: white;
+  color: grey;
   text-align: center;
   padding: 18px 16px;
   text-decoration: none;
   font-size: 19px;
 }
 
-.topnav a:hover {
-  color: yellow;
-}
+
 
 .bottomnav {
   float: right;
