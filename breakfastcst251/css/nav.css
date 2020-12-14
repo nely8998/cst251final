@@ -1,3 +1,27 @@
+/*---Styling CSS start --*/
+h2 {
+  color: #BD5745;
+}
+
+.footer-img img{
+  width: 80%;
+  float: left;
+}
+
+.footer-img{
+  float: left;
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+/*---Styling CSS ENDS>>>>>> --*/
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
 
