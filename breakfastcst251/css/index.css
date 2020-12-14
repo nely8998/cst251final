@@ -28,6 +28,7 @@ iframe {
 }
 
 .text {
+  font-family: Helvetica;
   padding-right: 17px;
   font-size: 30px;
   color: #BD5745
@@ -48,11 +49,12 @@ iframe {
 }
 
 .topnav {
+  font-family: Helvetica;
   border-radius: 5px;
   float: right;
   width: 710px;
   padding-top: 5px;
-  padding-right: 30px;
+  padding-right: 40px;
   overflow: hidden;
   background-color: #F77636;
 }
@@ -94,9 +96,10 @@ iframe {
 }
 
 h1 {
+  font-family: Helvetica;
   color: #BD5745;
   font-size: 28px;
-  width: 370px;
+  width: 400px;
   height: 40px;
   text-align: center;
   border: solid #BD5745 2px;
