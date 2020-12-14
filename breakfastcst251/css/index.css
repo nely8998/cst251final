@@ -57,11 +57,12 @@ iframe {
 }
 
 .topnav {
+  font-family: Helvetica;
   border-radius: 5px;
   float: right;
   width: 710px;
   padding-top: 5px;
-  padding-right: 30px;
+  padding-right: 40px;
   overflow: hidden;
   background-color: #F77636;
 }
