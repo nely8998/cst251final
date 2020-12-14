@@ -1,6 +1,3 @@
-head
-
-style
 
 body {
     font-family: Helvetica, Arial, "san serif";
@@ -14,15 +11,11 @@ main {
   display: block;
 }
 
-
-
 iframe {
   padding-left: 36px;
   border: none;
   height: 700px;
   width: 1200px;
-
-
   }
 
 .us {
@@ -35,13 +28,13 @@ iframe {
 }
 
 .text {
+  font-family: Helvetica;
   padding-right: 17px;
   font-size: 30px;
   color: #BD5745
 }
 
 .top {
-
   width: 100%;
   max-height: 1000px;
   z-index: -1;
@@ -56,18 +49,19 @@ iframe {
 }
 
 .topnav {
+  font-family: Helvetica;
   border-radius: 5px;
   float: right;
   width: 710px;
   padding-top: 5px;
-  padding-right: 30px;
+  padding-right: 40px;
   overflow: hidden;
-  background-color: #F77636;
+  background-color: white;
 }
 
 .topnav a {
   float: right;
-  color: white;
+  color: #919191;
   text-align: center;
   padding: 18px 16px;
   text-decoration: none;
@@ -101,17 +95,15 @@ iframe {
   color: yellow;
 }
 
-
-
 h1 {
+  font-family: Helvetica;
   color: #BD5745;
   font-size: 28px;
-  width: 370px;
+  width: 400px;
   height: 40px;
   text-align: center;
   border: solid #BD5745 2px;
   margin-left: 36px;
-
 }
 
 h1.aboutus {
@@ -147,7 +139,22 @@ h3 {
   max-height: 1000px;
   margin-left: 36px;
 }
+/*---Styling footer --*/
+.footer-img img{
+  width: 80%;
+  float: left;
+}
 
-footer {
+.footer-img{
+  float: left;
+  width: 200px;
+}
 
+footer{
+  background-color: peachpuff;
+  text-align: right;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
